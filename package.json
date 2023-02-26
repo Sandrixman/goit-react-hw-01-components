@@ -2,7 +2,8 @@
   "name": "goit-react-hw-01-components",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Sandrixman/goit-react-hw-01-components/",
+  "homepage": "https://github.com/Sandrixman/goit-react-hw-01-components",
+  "author": "Alexander>",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
