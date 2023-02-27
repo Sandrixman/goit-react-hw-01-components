@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Sandrixman/goit-react-hw-01-components/static/css/main.7acaea2f.css",
-    "main.js": "/Sandrixman/goit-react-hw-01-components/static/js/main.07d3183d.js",
+    "main.css": "/Sandrixman/goit-react-hw-01-components/static/css/main.17863222.css",
+    "main.js": "/Sandrixman/goit-react-hw-01-components/static/js/main.cee34abd.js",
     "index.html": "/Sandrixman/goit-react-hw-01-components/index.html",
-    "main.7acaea2f.css.map": "/Sandrixman/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/Sandrixman/goit-react-hw-01-components/static/js/main.07d3183d.js.map"
+    "main.17863222.css.map": "/Sandrixman/goit-react-hw-01-components/static/css/main.17863222.css.map",
+    "main.cee34abd.js.map": "/Sandrixman/goit-react-hw-01-components/static/js/main.cee34abd.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.17863222.css",
+    "static/js/main.cee34abd.js"
   ]
 }
