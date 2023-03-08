@@ -15,7 +15,7 @@ export const TableHead = styled.thead`
 
 export const TableRow = styled.tr`
   font-size: 13px;
-  :nth-child(even) {
+  :nth-of-type(even) {
     background: #fff;
   }
 `;
@@ -30,7 +30,7 @@ export const TableBody = styled.tbody``;
 export const TableData = styled.td`
   border: 1px solid #bebebe;
   padding: 20px 70px;
-  :nth-child(1) {
+  :nth-of-type(1) {
     text-transform: capitalize;
     text-align: start;
   }
